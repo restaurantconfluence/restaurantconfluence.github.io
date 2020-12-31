@@ -291,6 +291,19 @@ textarea.form-control {
   border: 2px solid transparent;
 }
 
+.btn.btn-outline-orange {
+  border: 2px solid #ff7a5c;
+  background: none;
+  color: #ff7a5c;
+  text-decoration: none;
+}
+
+.btn.btn-outline-orange:hover {
+  background: #ff7a5c;
+  color: #000;
+  border: 2px solid transparent;
+}
+
 .bg-image, .half .image, .image-bg-fullwidth {
   background-size: cover;
   background-position: center center;
@@ -344,6 +357,11 @@ textarea.form-control {
 
 .section-heading .small-sub-heading {
   font-size: 14px;
+  color: #ff7a5c;
+}
+
+.press {
+  font-size: 30px;
   color: #ff7a5c;
 }
 
