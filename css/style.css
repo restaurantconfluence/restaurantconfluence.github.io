@@ -723,6 +723,10 @@ textarea.form-control {
   color: #000;
 }
 
+.contact {
+  color: white;
+}
+
 .lead {
   font-size: 16px;
 }
